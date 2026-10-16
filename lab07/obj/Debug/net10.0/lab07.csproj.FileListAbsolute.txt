@@ -1,0 +1,15 @@
+D:\Lab.Алгоритми.С.Д\lab07\bin\Debug\net10.0\lab07.exe
+D:\Lab.Алгоритми.С.Д\lab07\bin\Debug\net10.0\lab07.deps.json
+D:\Lab.Алгоритми.С.Д\lab07\bin\Debug\net10.0\lab07.runtimeconfig.json
+D:\Lab.Алгоритми.С.Д\lab07\bin\Debug\net10.0\lab07.dll
+D:\Lab.Алгоритми.С.Д\lab07\bin\Debug\net10.0\lab07.pdb
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.AssemblyInfoInputs.cache
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.AssemblyInfo.cs
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.csproj.CoreCompileInputs.cache
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.sourcelink.json
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.dll
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\refint\lab07.dll
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.pdb
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\lab07.genruntimeconfig.cache
+D:\Lab.Алгоритми.С.Д\lab07\obj\Debug\net10.0\ref\lab07.dll
