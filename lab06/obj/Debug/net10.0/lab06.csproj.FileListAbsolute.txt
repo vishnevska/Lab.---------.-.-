@@ -1,0 +1,15 @@
+D:\Lab.Алгоритми.С.Д\lab06\bin\Debug\net10.0\lab06.exe
+D:\Lab.Алгоритми.С.Д\lab06\bin\Debug\net10.0\lab06.deps.json
+D:\Lab.Алгоритми.С.Д\lab06\bin\Debug\net10.0\lab06.runtimeconfig.json
+D:\Lab.Алгоритми.С.Д\lab06\bin\Debug\net10.0\lab06.dll
+D:\Lab.Алгоритми.С.Д\lab06\bin\Debug\net10.0\lab06.pdb
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.AssemblyInfoInputs.cache
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.AssemblyInfo.cs
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.csproj.CoreCompileInputs.cache
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.sourcelink.json
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.dll
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\refint\lab06.dll
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.pdb
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\lab06.genruntimeconfig.cache
+D:\Lab.Алгоритми.С.Д\lab06\obj\Debug\net10.0\ref\lab06.dll
