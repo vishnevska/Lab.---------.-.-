@@ -1,0 +1,15 @@
+D:\Lab.Алгоритми.С.Д\lab08\bin\Debug\net10.0\lab08.exe
+D:\Lab.Алгоритми.С.Д\lab08\bin\Debug\net10.0\lab08.deps.json
+D:\Lab.Алгоритми.С.Д\lab08\bin\Debug\net10.0\lab08.runtimeconfig.json
+D:\Lab.Алгоритми.С.Д\lab08\bin\Debug\net10.0\lab08.dll
+D:\Lab.Алгоритми.С.Д\lab08\bin\Debug\net10.0\lab08.pdb
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.AssemblyInfoInputs.cache
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.AssemblyInfo.cs
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.csproj.CoreCompileInputs.cache
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.sourcelink.json
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.dll
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\refint\lab08.dll
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.pdb
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\lab08.genruntimeconfig.cache
+D:\Lab.Алгоритми.С.Д\lab08\obj\Debug\net10.0\ref\lab08.dll
