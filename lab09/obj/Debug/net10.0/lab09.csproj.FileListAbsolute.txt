@@ -1,0 +1,15 @@
+D:\Lab.Алгоритми.С.Д\lab09\bin\Debug\net10.0\lab09.exe
+D:\Lab.Алгоритми.С.Д\lab09\bin\Debug\net10.0\lab09.deps.json
+D:\Lab.Алгоритми.С.Д\lab09\bin\Debug\net10.0\lab09.runtimeconfig.json
+D:\Lab.Алгоритми.С.Д\lab09\bin\Debug\net10.0\lab09.dll
+D:\Lab.Алгоритми.С.Д\lab09\bin\Debug\net10.0\lab09.pdb
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.AssemblyInfoInputs.cache
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.AssemblyInfo.cs
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.csproj.CoreCompileInputs.cache
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.sourcelink.json
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.dll
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\refint\lab09.dll
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.pdb
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\lab09.genruntimeconfig.cache
+D:\Lab.Алгоритми.С.Д\lab09\obj\Debug\net10.0\ref\lab09.dll
