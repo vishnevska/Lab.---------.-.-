@@ -1,0 +1,15 @@
+d:\Lab.Алгоритми.С.Д\lab11\bin\Debug\net10.0\lab11.exe
+d:\Lab.Алгоритми.С.Д\lab11\bin\Debug\net10.0\lab11.deps.json
+d:\Lab.Алгоритми.С.Д\lab11\bin\Debug\net10.0\lab11.runtimeconfig.json
+d:\Lab.Алгоритми.С.Д\lab11\bin\Debug\net10.0\lab11.dll
+d:\Lab.Алгоритми.С.Д\lab11\bin\Debug\net10.0\lab11.pdb
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.AssemblyInfoInputs.cache
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.AssemblyInfo.cs
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.csproj.CoreCompileInputs.cache
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.sourcelink.json
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.dll
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\refint\lab11.dll
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.pdb
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\lab11.genruntimeconfig.cache
+d:\Lab.Алгоритми.С.Д\lab11\obj\Debug\net10.0\ref\lab11.dll
